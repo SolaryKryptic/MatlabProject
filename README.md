@@ -16,7 +16,7 @@ This project implements a system for encoding and decoding hidden messages in te
 
 ## How to Run
 1. Download ZIP and open the project in MATLAB
-2. Run the Reveal.m
+2. Run the Reveal.m file
 
 ## Concepts Demonstrated
 - Data processing
